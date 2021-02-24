@@ -1,4 +1,4 @@
 # EAadaptor
- "EA" instruction 28pin rom adaptor
+ "EA" instruction (or anything via the jumpers) 28pin rom adaptor
 
  ![main](images/main.png)
